@@ -1,5 +1,5 @@
 ### Initial Setup:
-Creating the virtual environment:
+Creating the venv:
 - Open a new cmd terminal in VS code (if not default, click dropdown arrow next to '+' on the terminal top right then choose command prompt)
 - In the terminal, ```pip install virtual env```
 - Create an environment: ```virtual env venv```
